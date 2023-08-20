@@ -1,2 +1,0 @@
-Pillow==9.4
-streamlit==1.25.0

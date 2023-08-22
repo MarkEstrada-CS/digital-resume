@@ -2,6 +2,7 @@ from pathlib import Path
 
 import streamlit as st
 from PIL import Image
+from streamlit_disqus import st_disqus
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
@@ -147,3 +148,6 @@ st.subheader("Projects & Accomplishments")
 st.write("---")
 # for project, link in PROJECTS.items():
 #     st.write(f"[{project}]({link})")
+st.write("---")
+
+st_disqus("markestradacv")

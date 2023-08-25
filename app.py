@@ -28,10 +28,10 @@ SOCIAL_MEDIA = {
      "Twitter": "",
 }
 
-# PROJECTS = {
-# #     "Project 1": "",
-# #     "Project 2": "",
-# # }
+PROJECTS = {
+    "📝 **Digital CV**": "https://markestradacv.onrender.com/"
+    # "Project 2": "",
+}
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -146,8 +146,8 @@ st.write(
 st.write("#")
 st.subheader("Projects & Accomplishments")
 st.write("---")
-# for project, link in PROJECTS.items():
-#     st.write(f"[{project}]({link})")
+for project, link in PROJECTS.items():
+    st.write(f"[{project}]({link})")
 st.write("---")
 
 st_disqus("markestradacv")

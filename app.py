@@ -12,8 +12,8 @@ github_icon = current_dir / "assets" / "github_icon.png"
 
 
 #--- GENERAL SETTINGS ---#
-PAGE_TITLE = "Digital CV"
-PAGE_ICON = "♢"
+PAGE_TITLE = "Mark Estrada CV"
+PAGE_ICON = "📄"
 NAME = "Mark Vincent Estrada"
 CONTACT_NO = "09457194445 / 09474261330"
 ADDRESS = "Kapasigan, Pasig City"

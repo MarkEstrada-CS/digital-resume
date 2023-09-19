@@ -29,7 +29,7 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    "📝 **Digital CV**": "https://markestradacv.streamlit.app/",
+    "📝 **Digital CV**": "https://github.com/MarkEstrada-CS/digital-resume",
     "🩸 **Blood eDonate** - A simple blood donation mobile app developed in Kodular": "https://github.com/MarkEstrada-CS/Blood-eDonate",
     "👾 **Space Invader** - An alien shooting game developed in Kodular": "https://github.com/MarkEstrada-CS/CS111-BSCS3A-G2",
     "🗒️ **TTD** - Note-keeping mobile app developed in Kodular": "https://github.com/MarkEstrada-CS/TTD",

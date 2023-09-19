@@ -25,7 +25,7 @@ SOCIAL_MEDIA = {
      "Youtube": "https://www.youtube.com/channel/UCJP9o9iLVN-mZrO3SgzYfNw",
     "Linkedin": "https://www.linkedin.com/in/mark-vincent-estrada/",
       "Github": "https://github.com/MarkEstrada-CS",
-     "Twitter": "",
+     "Telegram": "https://telegram.me/mrk_strd",
 }
 
 PROJECTS = {

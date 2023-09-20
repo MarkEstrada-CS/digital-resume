@@ -65,7 +65,7 @@ with open(resume_file, "rb") as pdf_file:
         )
 
     with col2:
-        st.image(profile_pic, width=320)
+        st.image(profile_pic, width=270)
 
 #--SOCIAL MEDIA LINKS--#
 st.write("#")

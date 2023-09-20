@@ -16,7 +16,7 @@ PAGE_TITLE = "Mark Vincent Estrada - CV"
 PAGE_ICON = "📄"
 NAME = "Mark Vincent Estrada"
 CONTACT_NO = "09457194445 / 09474261330"
-ADDRESS = "Kapasigan, Pasig City"
+ADDRESS = "Pasig City"
 DESCRIPTION = """
 Graduate of BS Computer Science
 """

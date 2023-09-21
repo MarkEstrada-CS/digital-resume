@@ -2,8 +2,8 @@
 
 primaryColor = "#DAA06D"
 
-backgroundColor = "#000"
+backgroundColor = "#fff"
 
-secondaryBackgroundColor = "#fff"
+secondaryBackgroundColor = ""
 
-textColor = "#fff"
+textColor = "#000"
